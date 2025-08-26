@@ -1,6 +1,6 @@
 # EDA and SQL Summary — SpaceX Falcon 9
 
-Generated: 2025-08-26T12:16:26
+Generated: 2025-08-26T12:56:37
 
 ## Dataset (merged) shape
 Rows: 90, Columns: 25
