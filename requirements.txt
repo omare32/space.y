@@ -1,6 +1,7 @@
 pandas>=2.0
 numpy>=1.24
 requests>=2.31
+folium>=0.15
 beautifulsoup4>=4.12
 lxml>=4.9.3
 matplotlib>=3.8
